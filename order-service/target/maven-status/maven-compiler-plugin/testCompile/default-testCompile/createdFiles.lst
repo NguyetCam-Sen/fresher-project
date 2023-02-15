@@ -1,0 +1,4 @@
+com/vcncam/orderservice/service/OrderServiceTest.class
+com/vcncam/orderservice/OrderServiceApplicationTests.class
+com/vcncam/orderservice/service/OrderServiceTest$GetOrderByIdTest.class
+com/vcncam/orderservice/service/OrderServiceTest$PlaceOrderTest.class

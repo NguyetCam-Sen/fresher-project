@@ -1,0 +1,15 @@
+com/vcncam/inventoryservice/repository/InventoryRepository.class
+com/vcncam/inventoryservice/controller/InventoryController.class
+com/vcncam/inventoryservice/response/general/GeneralResponseStatus$GeneralResponseStatusBuilder.class
+com/vcncam/inventoryservice/model/Inventory.class
+com/vcncam/inventoryservice/exception/CustomException.class
+com/vcncam/inventoryservice/exception/NullDataException.class
+com/vcncam/inventoryservice/service/InventoryService.class
+com/vcncam/inventoryservice/model/Inventory$InventoryBuilder.class
+com/vcncam/inventoryservice/controller/BaseController.class
+com/vcncam/inventoryservice/response/general/GeneralResponseStatus.class
+com/vcncam/inventoryservice/InventoryServiceApplication.class
+com/vcncam/inventoryservice/exception/OrderNotFoundException.class
+com/vcncam/inventoryservice/response/general/GeneralResponse.class
+com/vcncam/inventoryservice/exception/ExceptionHandler.class
+com/vcncam/inventoryservice/response/general/GeneralResponse$GeneralResponseBuilder.class
